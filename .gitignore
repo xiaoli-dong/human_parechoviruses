@@ -1,2 +1,4 @@
-test/
-!*progs/
+test/*
+progs/*
+#keep the prog direcotry in git
+!progs/.gitkeep
